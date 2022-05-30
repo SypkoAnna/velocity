@@ -833,3 +833,9 @@ margin-left: 40px;
         padding: 1px 15px;
     }
 }
+@media (max-width:371px) {
+    .blue-button {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
